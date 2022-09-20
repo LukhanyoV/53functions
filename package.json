@@ -9,7 +9,6 @@
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --reporter xunit-file",
     "test_me": "./node_modules/mocha/bin/mocha ../the_tests  --reporter xunit-file"
-
   },
   "repository": {
     "type": "git",
@@ -22,9 +21,10 @@
   },
   "homepage": "https://github.com/codex-academy/53functions#readme",
   "dependencies": {
-    "mocha": "^2.3.4"
+    "mocha": "^10.0.0"
   },
   "devDependencies": {
     "xunit-file": "0.0.9"
-  }
+  },
+  "keywords": []
 }
