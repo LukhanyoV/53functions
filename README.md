@@ -1,3 +1,5 @@
+[![Node.js CI](https://github.com/LukhanyoV/53functions/actions/workflows/node.js.yml/badge.svg)](https://github.com/LukhanyoV/53functions/actions/workflows/node.js.yml)
+
 ---
 unitstandard: 115362-SO2-AC1, 115362-SO2-AC2, 115362-SO2-AC3
 ---
