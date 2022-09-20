@@ -7,8 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --reporter xunit-file",
-    "test_me": "./node_modules/mocha/bin/mocha ../the_tests  --reporter xunit-file"
+    "test": "mocha --reporter xunit-file"
   },
   "repository": {
     "type": "git",
